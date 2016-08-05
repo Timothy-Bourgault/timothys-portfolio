@@ -1,12 +1,12 @@
-* {
+body{
   text-align: center;
-  background-color: black;
+  background-image: linear-gradient(black, white);
 }
 
 h1 {
-  color: #da70d6;
-  font-family: Copperplate, "Copperplate Gothic Light", fantasy;
-	font-size: 60px;
+  color: #d8bfd8;
+  font-size: 55px;
+  font-family: Cambria, Georgia, serif;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 500;
@@ -14,8 +14,29 @@ h1 {
 }
 
 h2 {
-  color: #fa8072;
-  font-size: 46px;
-  font-family: fantasy;
-  font-style: papyrus;
+  color: #90ee90;
+  font-size: 40px;
+  font-family: Cambria, Georgia, serif;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+
+img {
+  padding-top: 40px;
+  padding-bottom: 20px;
+  -webkit-filter: brightness(80%);
+}
+
+.fixed-nav-bar {
+  background-color: black;
+}
+
+li {
+  color: white;
+}
+
+#menu li {
+  list-style-type: none;
 }
