@@ -1,0 +1,21 @@
+* {
+  text-align: center;
+  background-color: black;
+}
+
+h1 {
+  color: #da70d6;
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+	font-size: 60px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+
+h2 {
+  color: #fa8072;
+  font-size: 46px;
+  font-family: fantasy;
+  font-style: papyrus;
+}
