@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-image: linear-gradient(black, white);
+  background-image: linear-gradient(black, black, grey, white);
 }
 
 h1 {
@@ -58,4 +58,14 @@ li {
   font-weight: bolder;
   font-style: oblique;
   color: #ffb6c1;
+}
+.bottom {
+  color: black;
+  
+}
+.mid-bottom {
+  color: grey;
+}
+.skills {
+  color: lightgrey;
 }
